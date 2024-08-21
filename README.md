@@ -12,7 +12,7 @@ aleatorio_msg
 
 # Contributing
 
-If someone wants to add or improve something, I invite you to collaborate directly in this repository: [aleatorio_msg](https://github.com/sebastiandeveloper/aleatorio_msg)
+If someone wants to add or improve something, I invite you to collaborate directly in this repository: [aleatorio_msg](https://github.com/sebastianoDeveloper/aleatorio_msg)
 
 # License
 
