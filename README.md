@@ -1,6 +1,6 @@
 # random-str-msg
 
-Whenever I start a new project, I don't know what to write for the first commit. After doing a â€œgit initâ€ there is technically nothing there...
+Whenever I start a new project, I don't know what to write for the first commit. After doing a 'git init' there is technically nothing there...
 
 ## Install
 
